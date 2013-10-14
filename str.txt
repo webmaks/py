@@ -7,3 +7,5 @@
   Device File: lo
   Link detected: yes
   Config Status: cfg=new, avail=yes, need=no, active=unknown
+
+added some lines by WebMaks
